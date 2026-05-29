@@ -29,4 +29,4 @@ This project classifies SMS messages as Spam or Ham using Machine Learning algor
 Random Forest achieved slightly better performance compared to Logistic Regression.
 
 ## Author
-Rahul Burra
+Ch.Vaishnav Kumar Reddy
